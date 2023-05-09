@@ -1,18 +1,18 @@
 # xchange
 crypto
 
-PROJECT SETUP
+<strong>PROJECT SETUP</strong>
 
-1)Install node.js
-2)Create react app project npx create-react-app <NAME-OF-PROJECG>
-4)Update package.json with provided libraries
-5)Run npm install
+1)Install node.js <br>
+2)Create react app project npx create-react-app <NAME-OF-PROJECG> <br>
+4)Update package.json with provided libraries <br>
+5)Run npm install <br>
   
-CODE:
-1)Setup variables into .env file
-2)Read variables from .env file
-3)Connect to the ethereum testnet blockchain using web3
-4)WritEING transfer function (refer main.component.js)
+  <strong>CODE:</strong>
+1)Setup variables into .env file <br>
+2)Read variables from .env file <br>
+3)Connect to the ethereum testnet blockchain using web3 <br>
+4)WritEING transfer function (refer main.component.js) <br>
 
 SCREENSHOTS:
 
